@@ -1,0 +1,104 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.portrait {
+  width: 200px;
+}
+
+.carousel-inner .item img{
+  height: 50%;
+  max-width: 55%;
+}
+
+hr {
+  height: 5px;
+}
+
+h1, h3 {
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.nav .active{
+  background-color: #d43f3a;
+}
+
+.btn {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.btn-success {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+
+.btn-danger {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
+.navbar-custom {
+  background-color: rgba(7, 7, 7, 0.87);
+}
+
+.navbar-brand{
+  color: white;
+}
+
+.navbar-header > a:hover{
+  color:white;
+}
+
+.navbar-nav > li > a {
+  transition: all 0.3s ease;
+  color: white;
+}
+  .navbar-nav > li > a:hover {
+  color: black; /* Change text color on hover */
+  background-color: grey; /* Change background color on hover */
+  border-radius: 5px; /* Rounded corners */
+ 
+  }
+
+.hammie{
+  background-color: white;
+}
+
+.icon-bar{
+  background-color:black;
+}
+
+button {
+  background-color: white;
+}
+
+ /* Styling for social media buttons */
+.social-buttons a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 20px;
+}
+.social-buttons a:hover {
+  color: #f14636; /* Change color on hover */
+}
+
+
+
